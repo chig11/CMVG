@@ -1,0 +1,31 @@
+{% extends "base_private.html" %}
+
+{% load static from staticfiles%}
+
+{% block addedcss %}
+    <link rel="stylesheet" href="{% static "css/private/member-directory.css" %}" >
+{% endblock %}
+
+{% block body %}
+    <div class="member-directory">
+        {% for datum in data %}
+            <div class="card">
+                <span><img class="img" src="http://localhost:8000/media/{{ datum.image }}" alt=""></span>
+                <div class="info">
+                    {% comment %} <span>{{ datum.username }}</span> {% endcomment %}
+                    <span class="name">{{ datum.first_name }} {{ datum.middle_name}} {{datum.last_name }}</span>
+                    <span>Nickname: <span class="data"> {{ datum.nickname }}</span></span>
+                    <span>Email: <span class="data"> {{ datum.email }}</span></span>
+                    <span>Stud #: <span class="data"> {{ datum.student_number }}</span></span>
+                    <span>Program: <span class="data"> {{ datum.program }}</span></span>
+                    <span>Birthday: <span class="data"> {{ datum.birthday }}</span></span>
+                    <span>CM Birthday: <span class="data"> {{ datum.cm_birthday }}</span></span>
+                    <span>Address: <span class="data"> {{ datum.permanent_address }}</span></span>
+                    <span>Committee: <span class="data"> {{ datum.committee }}</span></span>
+                    <span>Number: <span class="data"> {{ datum.number }} ({{ datum.network }})</span></span>
+                    <span>FB Account: <a href="{{ datum.fb_account }}" target="_blank">Link</a></span>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+{% endblock %}

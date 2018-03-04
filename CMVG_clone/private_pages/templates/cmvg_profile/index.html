@@ -1,0 +1,192 @@
+{% extends "../base_private.html" %}
+
+{% load static from staticfiles%}
+<style>
+   
+</style>
+
+{% block addedcss %}
+<link rel="stylesheet" href="{% static "css/contact_us.css" %}">    
+<link rel="stylesheet" href="{% static "css/private/profile.css" %}">    
+{% endblock %}
+
+<!--inside container-right-->
+{% block body %}
+
+<!--<div class="card">-->
+
+    <span class="profile_header">Profile Information</span>
+    <!--<hr> defines a thematic break, separator lang ng content, represented by a horizontal line-->
+    <hr>
+
+    <form method="post" id="profile_form" action={% url 'private:cmvg_profile' %} enctype="multipart/form-data">
+        {% csrf_token %}
+        
+        <!--for="element_id" bounds the label to an input with id="element_id" so that when you click the label text it's as if you're clicking the button associated with that choice/label ; good to use when dealing with radio/small buttons-->
+        <span>
+            <label for="username">Username</label> 
+            <input id="username" type="text" name="username" value="{{user.username}}" disabled>
+        </span>
+        <br>
+        
+        <span>
+            <label for="email">Email</label> 
+            <input id="email" type="text" name="email" value="{{user.email}}" disabled>
+        </span>
+        <br>
+
+        <!--<img class="square" src="/media/{{user_profile.image}}" alt="">-->
+        <span>
+            <label for="upload">Profile Image</label>
+            <input type="file" name="upload" value="{{user_profile.image}}" class="inputfile">
+            <!--<label for="upload">Choose an Image</label>-->
+
+        </span>
+        <br>
+        
+        <span>
+            <label for="first_name">First Name</label>
+            {% if user_profile.first_name %}
+                <input id="first_name" type="text" name="first_name" value="{{user_profile.first_name}}">
+            {% else %}
+                <input id="first_name" type="text" name="first_name">
+            {% endif %}
+        </span>
+        <br>
+        
+        <span>
+            <label for="middle_name">Middle Name</label>
+            {% if user_profile.middle_name %}
+                <input id="middle_name" type="text" name="middle_name" value="{{user_profile.middle_name}}">
+            {% else %}
+                <input id="middle_name" type="text" name="middle_name">
+            {% endif %}
+        </span>
+        <br>
+
+        <span>
+            <label for="last_name">Last Name</label>
+            {% if user_profile.last_name %}
+                <input id="last_name" type="text" name="last_name" value="{{user_profile.last_name}}">
+            {% else %}
+                <input id="last_name" type="text" name="last_name">
+            {% endif %}
+        </span>
+        <br>
+
+        <span>
+            <label for="nickname">Nickname</label>
+            {% if user_profile.nickname %}
+                <input id="nickname" type="text" name="nickname" value="{{user_profile.nickname}}">
+            {% else %}
+                <input id="nickname" type="text" name="nickname">
+            {% endif %}
+        </span>
+        <br>
+
+        <span>
+            <label for="student_number">Student Number</label>
+            {% if user_profile.student_number %}
+                <input id="student_number" type="text" name="student_number" value="{{user_profile.student_number}}">
+            {% else %}
+                <input id="student_number" type="text" name="student_number">
+            {% endif %}
+        </span>
+        <br>
+
+        <span>
+            <label for="program">Program</label>
+            <select class="blue" id="program" name="program" form="profile_form">
+                {% for course in courses %}
+                    {% if course == user_profile.program %}
+                        <option value="{{course.program}}" selected>{{course.program}}</option>
+                    {% else %}
+                        <option value="{{course.program}}">{{course.program}}</option>
+                    {% endif %}
+                {% endfor %}
+            </select>
+        </span>
+        <br>
+        
+        <span>
+            <label for="birthday">Birthday</label>
+            {% if user_profile.birthday %}
+                <input id="birthday" type="date" name="birthday" value="{{user_profile.birthday|date:"Y-m-d"}}">
+            {% else %}
+                <input id="birthday" type="date" name="birthday">
+            {% endif %}
+        </span>
+        <br>
+
+        <span>
+            <label for="cm_birthday">CM Birthday</label>
+            {% if user_profile.cm_birthday %}
+                <input id="cm_birthday" type="date" name="cm_birthday" value="{{user_profile.cm_birthday|date:"Y-m-d"}}">
+            {% else %}
+                <input id="cm_birthday" type="date" name="cm_birthday">
+            {% endif %}
+        </span>
+        <br>
+
+        <span>
+            <label for="permanent_address">Permanent Address</label>
+            {% if user_profile.permanent_address %}
+                <input id="permanent_address" type="text" name="permanent_address" value="{{user_profile.permanent_address}}">
+            {% else %}
+                <input id="permanent_address" type="text" name="permanent_address" value="{{user_profile.permanent_address}}">
+            {% endif %}
+        </span>
+        <br>
+
+        <span >
+            <label for="committee">Committee</label> 
+            
+                <select class="blue" id="committee" name="committee" form="profile_form">
+                    {% for committee in committees %}
+                        {% if committee == user_profile.committee %}
+                            <option value="{{committee}}" selected>{{committee}}</option>
+                        {% else %}
+                            <option value="{{committee}}">{{committee}}</option>
+                        {% endif %}
+                    {% endfor %}
+                </select>
+    
+        </span>
+        <br>
+
+        <span>
+            <label for="fb_account">Facebook Account</label>
+            {% if user_profile.fb_account %}
+                <input id="fb_account" type="text" name="fb_account" value="{{user_profile.fb_account}}">
+            {% else %}
+                <input id="fb_account" type="text" name="fb_account">
+            {% endif %}
+        </span>
+        <br>
+        
+        <span>
+            <label for="number">Cellphone Number</label>
+            {% if user_profile.number %}
+                <input id="number" type="text" name="number" value="{{user_profile.number}}">
+            {% else %}
+                <input id="number" type="text" name="number">
+            {% endif %}
+        </span>
+        <br>
+
+        <span>
+            <label for="network">Network</label> 
+            {% if user_profile.network %}
+                <input for="network" type="text" name="network" value="{{user_profile.network}}">
+            {% else %}
+                <input for="network" type="text" name="network">
+            {% endif %}
+        </span>
+        <br>
+
+        <div class="float-right">
+            <input type="submit" value="SAVE">
+        </div>
+    </form>
+<!--</div>-->
+{% endblock %}

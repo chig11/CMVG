@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>UPD CMO</title>
+    
+    {% load static from staticfiles%}
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+    <link rel="stylesheet" href="{% static "css/normalize.css" %}">
+    {% comment %} <link type="text/css" rel="stylesheet" href="{% static "materialize/css/materialize.min.css" %}"  media="screen,projection"/> {% endcomment %}
+    <link rel="stylesheet" href="{% static "css/base.css"%}">
+    {% block addedcss %}
+    {% endblock %}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+<body>
+    <nav class="nav-container">
+        <div class="nav-top">
+            <div class="nav-left">
+                <img src="{% static "images/logo.jpg"%}" class="logo" alt="UPD CMO LOGO">
+                <a href="/about_us/" class="title">UP Campus Ministry Office</a>
+            </div>
+            <nav class="nav-right">
+                <a href="#"><i class="far fa-user"></i> Be a Volunteer</a>
+            </nav>
+        </div>
+        <div class="nav-bottom">
+            <a href="/about_us/">About Us</a>
+            <a href="/announcements/">Updates</a>
+            <a href="/event_gallery/">Event Galleries</a>
+            <a href="/volunteers/">Volunteers</a>
+            <a href="/contact_us/">Contact Us</a>
+        </div>
+    </nav>
+    <div class="container">
+        {% block body %}
+        {% endblock %}
+    </div>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="{% static "materialize/js/materialize.min.js" %}"></script>
+    <script>
+        
+    </script>
+</body>
+</html>

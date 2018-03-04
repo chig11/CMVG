@@ -1,0 +1,139 @@
+/*%shadow is a mixin, meaning it will only be applied if you put it in a selector 
+  as @extend %shadow*/
+.nav-container {
+  border-width: 0;
+  border-style: solid;
+  border-color: black;
+  -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.25), 0 1px 5px 0 rgba(0, 0, 0, 0.35), 0 3px 1px -2px rgba(0, 0, 0, 0.4); }
+
+body {
+  margin-top: 130px;
+  /*by default: main axis is row (left to right)*/
+  display: flex;
+  margin-bottom: 100px; }
+
+.nav-container {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 105px;
+  color: #ffffff; }
+  .nav-container .nav-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #0277bd;
+    height: 65px;
+    padding-left: 185px;
+    padding-right: 5%; }
+    .nav-container .nav-top .nav-right a {
+      border-style: solid;
+      border-width: 1px;
+      border-radius: 4px;
+      background-color: #cfd8dc;
+      border-color: #cfd8dc;
+      padding: .35em 1em;
+      font-size: 1em;
+      color: #3e2723;
+      font-weight: 500; }
+    .nav-container .nav-top .nav-right a:hover {
+      background-color: #ffffff; }
+  .nav-container .nav-bottom {
+    display: flex;
+    align-items: center;
+    background-color: #01579b;
+    height: 40px;
+    padding-left: 170px; }
+    .nav-container .nav-bottom a {
+      display: flex;
+      align-items: center;
+      height: 100%;
+      padding: 0 1em; }
+    .nav-container .nav-bottom a:hover {
+      background: #0277bd; }
+  .nav-container a {
+    color: #ffffff;
+    text-decoration: None; }
+  .nav-container .logo {
+    width: 95px;
+    height: 95px;
+    position: fixed;
+    left: 5%;
+    top: 0; }
+  .nav-container .title {
+    font-size: 1.75em;
+    font-weight: 400; }
+
+.container {
+  display: flex;
+  /*0 (up,down) 5% (left,right)*/
+  padding: 0 5%;
+  width: 90%; }
+  .container .container-left {
+    display: flex;
+    width: 300px;
+    position: fixed;
+    flex-direction: column;
+    align-items: center;
+    /*100vh means 100% of the viewport height,
+    viewport => a framed area on a display screen for viewing information
+    i.e. yung kayang idisplay ng browser sa laptop mo*/
+    /*height: 100vh;*/
+    /*100% relative to parent container*/
+    /*note: when inspect element does not update even when you change the scss or css file, 
+    then clear the cache*/
+    height: 100%;
+    border-right: 2px solid #263238; }
+    .container .container-left .profile-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 70%;
+      border-style: solid;
+      border-width: 0 0 2px 0;
+      border-color: #263238;
+      margin-bottom: .5em;
+      padding-top: 1em;
+      padding-bottom: 1em; }
+      .container .container-left .profile-container .profile {
+        width: 100px;
+        height: 100px;
+        border-radius: 100%; }
+      .container .container-left .profile-container .profile-username {
+        font-size: 1.5em;
+        font-weight: 300;
+        margin: .3em 0 .5em 0; }
+    .container .container-left .menus {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 90%; }
+      .container .container-left .menus .links {
+        display: flex;
+        justify-content: center;
+        padding: .5em 0;
+        font-size: 1.25em;
+        font-weight: 300;
+        width: 100%;
+        color: black;
+        text-decoration: None; }
+      .container .container-left .menus .links:hover {
+        background-color: #eceff1; }
+  .container .container-right {
+    margin-left: 300px;
+    /*em is equal to the computed font-size for the element to which the ems is applied
+    for example, here font-size = 16px (by default) so 2em = 32px*/
+    padding-left: 2em;
+    /*add here*/ }
+
+/*static/scss:static/css
+
+sass --watch app/sass:public/stylesheets
+*/
+/*in inspect element(Q) dimensions: row x column (in px)*/
+
+/*# sourceMappingURL=base_private.css.map */

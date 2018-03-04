@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% load static from staticfiles%}
+
+{% block addedcss %}
+    <link rel="stylesheet" href="{% static "css/contact_us.css"%}">
+{% endblock %}
+
+{% block body %}
+<h1>Contact Us</h1>
+<hr>
+<div class="contact_us">
+    <div class="left">
+        <iframe class="google-maps" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3859.948815888493!2d121.06895994948425!3d14.65884617952853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397b76770ae75a3%3A0x324e3a19922626fe!2sParish+Of+The+Holy+Sacrifice!5e0!3m2!1sen!2sph!4v1517731503703" frameborder="0" style="border:0" allowfullscreen></iframe>
+        <div class="right-children">
+            <span class="title">Campus Ministry Office</span>
+            <span>Parish of the Holy Sacrifice</span>
+            <span>University of the Philippines Diliman</span>
+            <span>Apacible St. Quezon City. Philippines</span>
+        </div>
+        <div class="right-children">
+            <span class="title-2">Follow Us On</span>
+            <div>
+                <a href="#"><i class="fab fa-facebook-square"></i></a>
+                <a href="#"><i class="fab fa-twitter-square"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+            </div>
+        </div>
+    </div>
+    <div class="right">
+        <div class="card">
+            <span class="title-2">Message Us</span>
+            <hr>
+            <form method="post" action={% url 'public:contact_us' %} enctype="multipart/form-data">
+                {% csrf_token %}
+                <span class="label">Name</span>
+                {{ form.name }}
+                <span class="label">Email</span>
+                {{ form.email }}
+                <span class="label">Message</span>
+                {{ form.message }}
+                <input type="submit" value="SEND">
+            </form>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

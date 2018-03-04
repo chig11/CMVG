@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% load static from staticfiles%}
+
+{% block addedcss %}
+    <link rel="stylesheet" href="{% static "css/updates.css"%}">
+{% endblock %}
+
+{% block body %}
+<div class="updates">
+    <div class="right">
+        <h1>Updates</h1>
+        <hr>
+        {% for datum in data %}
+        <div class="post">
+            <div class="post-right">
+                <img class="post-image" src="http://localhost:8000/media/{{ datum.image }}" alt="">
+            </div>
+            <div class="post-left">
+                <span class="title">{{ datum.title   }}</span>
+                <span class="time">{{ datum.updated_at }}</span>
+                <span class="body">{{ datum.body    }}</span>
+                <hr class="custom-hr">
+                <div class="buttons">
+                    <a href="/announcements/{{ datum.id }}"><i class="fas fa-book"></i>&nbsp Read More</a>
+                    <a href=""><i class="fas fa-share-alt"></i>&nbsp Share</a>
+                </div>
+            </div>
+        </div>
+        <hr>
+        {% endfor %}    
+    </div>
+    <div class="left">
+            <span class="title">Follow Us On</span>
+            <div>
+                <a href="#"><i class="fab fa-facebook-square"></i></a>
+                <a href="#"><i class="fab fa-twitter-square"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+            </div>
+    </div>
+</div>
+{% endblock %}

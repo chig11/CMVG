@@ -1,0 +1,20 @@
+<form method="post" id="gallery_upload" action={% url 'private:cmvg_gallery_create' %} enctype="multipart/form-data">
+    {% csrf_token %}
+    <p><input type="text" name="title" /></p>
+    <p><input type="file" name="images" multiple/></p>
+    <p>
+        <select name="year" form="gallery_upload">
+            {% for year in years %}
+            <option value={{year}}>{{year}}</option>
+            {% endfor %}
+        </select>
+    </p>
+    <p>
+        <select name="tags" form="gallery_upload" multiple>
+            {% for tag in tags %}
+                <option value={{tag}}>{{tag}}</option>
+            {% endfor %}
+        </select>
+    </p>
+    <p><input type="submit" value="save"></p>
+</form>

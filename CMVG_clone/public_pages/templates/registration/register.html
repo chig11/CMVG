@@ -1,0 +1,36 @@
+{% extends "../base.html" %}
+
+{% load static from staticfiles%}
+
+{% block addedcss %}
+    <link rel="stylesheet" href="{% static "css/login.css"%}">
+{% endblock %}
+
+{% block body %}
+<div class="card-container">
+    <div class="card">
+        <div class="title">
+            Register An Account
+            <hr>
+        </div>
+        
+        {% if form.errors %}
+            There is something wrong in the form.
+        {% endif %}
+        
+        <form method="post" action="{% url 'public:register' %}">
+            {% csrf_token %}
+            <span class="label">Username</span>
+            <span>{{ form.username}}</span>
+            <span class="label">Email</span>
+            <span>{{ form.email }}</span>
+            <span class="label">Password</span>
+            <span>{{ form.password1 }}</span>
+            <span class="label">Confirm Password</span>
+            <span>{{ form.password2 }}</span>
+            
+            <input type="submit" value="Register"> 
+        </form>
+    </div>
+</div>
+{% endblock %}

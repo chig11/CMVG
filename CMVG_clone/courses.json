@@ -1,0 +1,2747 @@
+[
+{
+  "model": "private_pages.courses",
+  "pk": 1,
+  "fields": {
+    "program": "B Landscape Architecture",
+    "created_at": "2018-02-28T05:53:44.347Z",
+    "updated_at": "2018-02-28T05:53:44.347Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 2,
+  "fields": {
+    "program": "BS Architecture",
+    "created_at": "2018-02-28T05:53:44.407Z",
+    "updated_at": "2018-02-28T05:53:44.407Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 3,
+  "fields": {
+    "program": "BA Art Studies: Art History",
+    "created_at": "2018-02-28T05:53:44.425Z",
+    "updated_at": "2018-02-28T05:53:44.425Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 4,
+  "fields": {
+    "program": "BA Art Studies: Interdisciplinary",
+    "created_at": "2018-02-28T05:53:44.436Z",
+    "updated_at": "2018-02-28T05:53:44.436Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 5,
+  "fields": {
+    "program": "BA Art Studies: Philippine Art",
+    "created_at": "2018-02-28T05:53:44.447Z",
+    "updated_at": "2018-02-28T05:53:44.447Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 6,
+  "fields": {
+    "program": "BA Comparative Literature: Asian Literatures",
+    "created_at": "2018-02-28T05:53:44.458Z",
+    "updated_at": "2018-02-28T05:53:44.458Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 7,
+  "fields": {
+    "program": "BA Comparative Literature: European Literatures",
+    "created_at": "2018-02-28T05:53:44.469Z",
+    "updated_at": "2018-02-28T05:53:44.469Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 8,
+  "fields": {
+    "program": "BA Comparative Literature: Philippine Literatures English and English Translation",
+    "created_at": "2018-02-28T05:53:44.480Z",
+    "updated_at": "2018-02-28T05:53:44.480Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 9,
+  "fields": {
+    "program": "BA Creative Writing",
+    "created_at": "2018-02-28T05:53:44.491Z",
+    "updated_at": "2018-02-28T05:53:44.491Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 10,
+  "fields": {
+    "program": "BA English Studies: Language",
+    "created_at": "2018-02-28T05:53:44.502Z",
+    "updated_at": "2018-02-28T05:53:44.503Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 11,
+  "fields": {
+    "program": "BA English Studies: Anglo-American Literature",
+    "created_at": "2018-02-28T05:53:44.514Z",
+    "updated_at": "2018-02-28T05:53:44.514Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 12,
+  "fields": {
+    "program": "BA European Languages Plan 1",
+    "created_at": "2018-02-28T05:53:44.525Z",
+    "updated_at": "2018-02-28T05:53:44.525Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 13,
+  "fields": {
+    "program": "BA European Languages Plan 2",
+    "created_at": "2018-02-28T05:53:44.536Z",
+    "updated_at": "2018-02-28T05:53:44.536Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 14,
+  "fields": {
+    "program": "BA Filipino at Panitikan ng Pilipinas",
+    "created_at": "2018-02-28T05:53:44.547Z",
+    "updated_at": "2018-02-28T05:53:44.547Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 15,
+  "fields": {
+    "program": "BA Malikhaing Pagsulat sa Filipino",
+    "created_at": "2018-02-28T05:53:44.558Z",
+    "updated_at": "2018-02-28T05:53:44.558Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 16,
+  "fields": {
+    "program": "BA Philippine Studies",
+    "created_at": "2018-02-28T05:53:44.569Z",
+    "updated_at": "2018-02-28T05:53:44.569Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 17,
+  "fields": {
+    "program": "BA Speech Communication",
+    "created_at": "2018-02-28T05:53:44.580Z",
+    "updated_at": "2018-02-28T05:53:44.580Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 18,
+  "fields": {
+    "program": "BA Theatre Arts",
+    "created_at": "2018-02-28T05:53:44.591Z",
+    "updated_at": "2018-02-28T05:53:44.591Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 19,
+  "fields": {
+    "program": "BS Tourism",
+    "created_at": "2018-02-28T05:53:44.602Z",
+    "updated_at": "2018-02-28T05:53:44.602Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 20,
+  "fields": {
+    "program": "BS Business Administration",
+    "created_at": "2018-02-28T05:53:44.613Z",
+    "updated_at": "2018-02-28T05:53:44.613Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 21,
+  "fields": {
+    "program": "BS Business Administration and Accountancy",
+    "created_at": "2018-02-28T05:53:44.624Z",
+    "updated_at": "2018-02-28T05:53:44.625Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 22,
+  "fields": {
+    "program": "BS Business Economics",
+    "created_at": "2018-02-28T05:53:44.635Z",
+    "updated_at": "2018-02-28T05:53:44.635Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 23,
+  "fields": {
+    "program": "BS Economics",
+    "created_at": "2018-02-28T05:53:44.646Z",
+    "updated_at": "2018-02-28T05:53:44.646Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 24,
+  "fields": {
+    "program": "BS Civil Engineering",
+    "created_at": "2018-02-28T05:53:44.657Z",
+    "updated_at": "2018-02-28T05:53:44.657Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 25,
+  "fields": {
+    "program": "BS Chemical Engineering",
+    "created_at": "2018-02-28T05:53:44.668Z",
+    "updated_at": "2018-02-28T05:53:44.668Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 26,
+  "fields": {
+    "program": "BS Computer Science",
+    "created_at": "2018-02-28T05:53:44.680Z",
+    "updated_at": "2018-02-28T05:53:44.680Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 27,
+  "fields": {
+    "program": "BS Computer Engineering",
+    "created_at": "2018-02-28T05:53:44.691Z",
+    "updated_at": "2018-02-28T05:53:44.691Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 28,
+  "fields": {
+    "program": "BS Electrical Engineering",
+    "created_at": "2018-02-28T05:53:44.702Z",
+    "updated_at": "2018-02-28T05:53:44.702Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 29,
+  "fields": {
+    "program": "BS Electronics and Communications Engineering",
+    "created_at": "2018-02-28T05:53:44.713Z",
+    "updated_at": "2018-02-28T05:53:44.713Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 30,
+  "fields": {
+    "program": "BS Geodetic Engineering",
+    "created_at": "2018-02-28T05:53:44.724Z",
+    "updated_at": "2018-02-28T05:53:44.724Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 31,
+  "fields": {
+    "program": "BS Industrial Engineering",
+    "created_at": "2018-02-28T05:53:44.735Z",
+    "updated_at": "2018-02-28T05:53:44.735Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 32,
+  "fields": {
+    "program": "BS Mechanical Engineering",
+    "created_at": "2018-02-28T05:53:44.746Z",
+    "updated_at": "2018-02-28T05:53:44.746Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 33,
+  "fields": {
+    "program": "BS Materials Engineering",
+    "created_at": "2018-02-28T05:53:44.757Z",
+    "updated_at": "2018-02-28T05:53:44.757Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 34,
+  "fields": {
+    "program": "BS Metallurgical Engineering",
+    "created_at": "2018-02-28T05:53:44.768Z",
+    "updated_at": "2018-02-28T05:53:44.768Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 35,
+  "fields": {
+    "program": "BS Mining Engineering",
+    "created_at": "2018-02-28T05:53:44.779Z",
+    "updated_at": "2018-02-28T05:53:44.779Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 36,
+  "fields": {
+    "program": "Bachelor of Fine Arts (Painting)",
+    "created_at": "2018-02-28T05:53:44.790Z",
+    "updated_at": "2018-02-28T05:53:44.790Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 37,
+  "fields": {
+    "program": "Bachelor of Fine Arts (Sculpture)",
+    "created_at": "2018-02-28T05:53:44.801Z",
+    "updated_at": "2018-02-28T05:53:44.801Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 38,
+  "fields": {
+    "program": "Bachelor of Fine Arts (Art Education)",
+    "created_at": "2018-02-28T05:53:44.812Z",
+    "updated_at": "2018-02-28T05:53:44.812Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 39,
+  "fields": {
+    "program": "Bachelor of Fine Arts (Art History)",
+    "created_at": "2018-02-28T05:53:44.823Z",
+    "updated_at": "2018-02-28T05:53:44.824Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 40,
+  "fields": {
+    "program": "Bachelor of Fine Arts (Industrial Design)",
+    "created_at": "2018-02-28T05:53:44.835Z",
+    "updated_at": "2018-02-28T05:53:44.835Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 41,
+  "fields": {
+    "program": "Bachelor of Fine Arts (Visual Communication)",
+    "created_at": "2018-02-28T05:53:44.846Z",
+    "updated_at": "2018-02-28T05:53:44.846Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 42,
+  "fields": {
+    "program": "BS Interior Design",
+    "created_at": "2018-02-28T05:53:44.857Z",
+    "updated_at": "2018-02-28T05:53:44.857Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 43,
+  "fields": {
+    "program": "BS Clothing Technology",
+    "created_at": "2018-02-28T05:53:44.868Z",
+    "updated_at": "2018-02-28T05:53:44.868Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 44,
+  "fields": {
+    "program": "BS Family Life and Child Development",
+    "created_at": "2018-02-28T05:53:44.879Z",
+    "updated_at": "2018-02-28T05:53:44.879Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 45,
+  "fields": {
+    "program": "BS Community Nutrition",
+    "created_at": "2018-02-28T05:53:44.890Z",
+    "updated_at": "2018-02-28T05:53:44.890Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 46,
+  "fields": {
+    "program": "BS Food Technology",
+    "created_at": "2018-02-28T05:53:44.901Z",
+    "updated_at": "2018-02-28T05:53:44.901Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 47,
+  "fields": {
+    "program": "BS Home Economics",
+    "created_at": "2018-02-28T05:53:44.912Z",
+    "updated_at": "2018-02-28T05:53:44.912Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 48,
+  "fields": {
+    "program": "BS Hotel, Restaurant and Institution Management",
+    "created_at": "2018-02-28T05:53:44.923Z",
+    "updated_at": "2018-02-28T05:53:44.923Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 49,
+  "fields": {
+    "program": "B Physical Education",
+    "created_at": "2018-02-28T05:53:44.934Z",
+    "updated_at": "2018-02-28T05:53:44.934Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 50,
+  "fields": {
+    "program": "B Sports Science",
+    "created_at": "2018-02-28T05:53:44.945Z",
+    "updated_at": "2018-02-28T05:53:44.945Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 51,
+  "fields": {
+    "program": "B Library and Information Science",
+    "created_at": "2018-02-28T05:53:44.956Z",
+    "updated_at": "2018-02-28T05:53:44.956Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 52,
+  "fields": {
+    "program": "BA Broadcast Communication",
+    "created_at": "2018-02-28T05:53:44.967Z",
+    "updated_at": "2018-02-28T05:53:44.967Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 53,
+  "fields": {
+    "program": "BA Communication Research",
+    "created_at": "2018-02-28T05:53:44.978Z",
+    "updated_at": "2018-02-28T05:53:44.978Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 54,
+  "fields": {
+    "program": "BA Film",
+    "created_at": "2018-02-28T05:53:44.989Z",
+    "updated_at": "2018-02-28T05:53:44.989Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 55,
+  "fields": {
+    "program": "BA Journalism",
+    "created_at": "2018-02-28T05:53:45.001Z",
+    "updated_at": "2018-02-28T05:53:45.001Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 56,
+  "fields": {
+    "program": "B Public Administration",
+    "created_at": "2018-02-28T05:53:45.011Z",
+    "updated_at": "2018-02-28T05:53:45.011Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 57,
+  "fields": {
+    "program": "BS Biology",
+    "created_at": "2018-02-28T05:53:45.022Z",
+    "updated_at": "2018-02-28T05:53:45.022Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 58,
+  "fields": {
+    "program": "BS Chemistry",
+    "created_at": "2018-02-28T05:53:45.033Z",
+    "updated_at": "2018-02-28T05:53:45.033Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 59,
+  "fields": {
+    "program": "BS Mathematics",
+    "created_at": "2018-02-28T05:53:45.044Z",
+    "updated_at": "2018-02-28T05:53:45.044Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 60,
+  "fields": {
+    "program": "BS Molecular Biology and Biotechnology",
+    "created_at": "2018-02-28T05:53:45.055Z",
+    "updated_at": "2018-02-28T05:53:45.055Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 61,
+  "fields": {
+    "program": "BS Geology",
+    "created_at": "2018-02-28T05:53:45.066Z",
+    "updated_at": "2018-02-28T05:53:45.066Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 62,
+  "fields": {
+    "program": "BS Applied Physics",
+    "created_at": "2018-02-28T05:53:45.077Z",
+    "updated_at": "2018-02-28T05:53:45.077Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 63,
+  "fields": {
+    "program": "BS Physics",
+    "created_at": "2018-02-28T05:53:45.089Z",
+    "updated_at": "2018-02-28T05:53:45.089Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 64,
+  "fields": {
+    "program": "BA Anthropology",
+    "created_at": "2018-02-28T05:53:45.100Z",
+    "updated_at": "2018-02-28T05:53:45.100Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 65,
+  "fields": {
+    "program": "BS Geography",
+    "created_at": "2018-02-28T05:53:45.111Z",
+    "updated_at": "2018-02-28T05:53:45.111Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 66,
+  "fields": {
+    "program": "BA History",
+    "created_at": "2018-02-28T05:53:45.122Z",
+    "updated_at": "2018-02-28T05:53:45.122Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 67,
+  "fields": {
+    "program": "BA Linguistics",
+    "created_at": "2018-02-28T05:53:45.133Z",
+    "updated_at": "2018-02-28T05:53:45.133Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 68,
+  "fields": {
+    "program": "BA Philosophy",
+    "created_at": "2018-02-28T05:53:45.145Z",
+    "updated_at": "2018-02-28T05:53:45.145Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 69,
+  "fields": {
+    "program": "BA Political Science",
+    "created_at": "2018-02-28T05:53:45.156Z",
+    "updated_at": "2018-02-28T05:53:45.156Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 70,
+  "fields": {
+    "program": "BA MA Honors (Political Science)",
+    "created_at": "2018-02-28T05:53:45.167Z",
+    "updated_at": "2018-02-28T05:53:45.167Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 71,
+  "fields": {
+    "program": "BA Psychology",
+    "created_at": "2018-02-28T05:53:45.178Z",
+    "updated_at": "2018-02-28T05:53:45.178Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 72,
+  "fields": {
+    "program": "BS Psychology",
+    "created_at": "2018-02-28T05:53:45.189Z",
+    "updated_at": "2018-02-28T05:53:45.189Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 73,
+  "fields": {
+    "program": "BA Sociology",
+    "created_at": "2018-02-28T05:53:45.200Z",
+    "updated_at": "2018-02-28T05:53:45.200Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 74,
+  "fields": {
+    "program": "BS Community Development",
+    "created_at": "2018-02-28T05:53:45.211Z",
+    "updated_at": "2018-02-28T05:53:45.211Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 75,
+  "fields": {
+    "program": "BS Social Work",
+    "created_at": "2018-02-28T05:53:45.222Z",
+    "updated_at": "2018-02-28T05:53:45.222Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 76,
+  "fields": {
+    "program": "BS Statistics",
+    "created_at": "2018-02-28T05:53:45.233Z",
+    "updated_at": "2018-02-28T05:53:45.233Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 77,
+  "fields": {
+    "program": "BA Business Economics",
+    "created_at": "2018-02-28T05:53:45.244Z",
+    "updated_at": "2018-02-28T05:53:45.244Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 78,
+  "fields": {
+    "program": "BA Applied Psychology",
+    "created_at": "2018-02-28T05:53:45.255Z",
+    "updated_at": "2018-02-28T05:53:45.255Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 79,
+  "fields": {
+    "program": "BS Business Management",
+    "created_at": "2018-02-28T05:53:45.283Z",
+    "updated_at": "2018-02-28T05:53:45.284Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 80,
+  "fields": {
+    "program": "B Elementary Education Art Education",
+    "created_at": "2018-02-28T05:53:45.299Z",
+    "updated_at": "2018-02-28T05:53:45.299Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 81,
+  "fields": {
+    "program": "B Elementary Education Mathematics",
+    "created_at": "2018-02-28T05:53:45.310Z",
+    "updated_at": "2018-02-28T05:53:45.310Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 82,
+  "fields": {
+    "program": "B Elementary Education Science and Health",
+    "created_at": "2018-02-28T05:53:45.321Z",
+    "updated_at": "2018-02-28T05:53:45.321Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 83,
+  "fields": {
+    "program": "B Elementary Education Special Education",
+    "created_at": "2018-02-28T05:53:45.332Z",
+    "updated_at": "2018-02-28T05:53:45.332Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 84,
+  "fields": {
+    "program": "B Elementary Education Teaching the Early Grades, K-2",
+    "created_at": "2018-02-28T05:53:45.344Z",
+    "updated_at": "2018-02-28T05:53:45.344Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 85,
+  "fields": {
+    "program": "B Elementary Education Communication Arts-English",
+    "created_at": "2018-02-28T05:53:45.355Z",
+    "updated_at": "2018-02-28T05:53:45.355Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 86,
+  "fields": {
+    "program": "B Elementary Education Social Studies",
+    "created_at": "2018-02-28T05:53:45.366Z",
+    "updated_at": "2018-02-28T05:53:45.366Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 87,
+  "fields": {
+    "program": "B Secondary Education Art Education",
+    "created_at": "2018-02-28T05:53:45.377Z",
+    "updated_at": "2018-02-28T05:53:45.377Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 88,
+  "fields": {
+    "program": "B Secondary Education Biology",
+    "created_at": "2018-02-28T05:53:45.388Z",
+    "updated_at": "2018-02-28T05:53:45.388Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 89,
+  "fields": {
+    "program": "B Secondary Education Chemistry",
+    "created_at": "2018-02-28T05:53:45.399Z",
+    "updated_at": "2018-02-28T05:53:45.399Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 90,
+  "fields": {
+    "program": "B Secondary Education Special Education",
+    "created_at": "2018-02-28T05:53:45.410Z",
+    "updated_at": "2018-02-28T05:53:45.410Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 91,
+  "fields": {
+    "program": "B Secondary Education Communication Arts-English",
+    "created_at": "2018-02-28T05:53:45.421Z",
+    "updated_at": "2018-02-28T05:53:45.421Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 92,
+  "fields": {
+    "program": "B Secondary Education Communication Arts-Filipino",
+    "created_at": "2018-02-28T05:53:45.432Z",
+    "updated_at": "2018-02-28T05:53:45.432Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 93,
+  "fields": {
+    "program": "B Secondary Education Health Education",
+    "created_at": "2018-02-28T05:53:45.443Z",
+    "updated_at": "2018-02-28T05:53:45.443Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 94,
+  "fields": {
+    "program": "B Secondary Education Mathematics",
+    "created_at": "2018-02-28T05:53:45.454Z",
+    "updated_at": "2018-02-28T05:53:45.454Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 95,
+  "fields": {
+    "program": "B Secondary Education Physics",
+    "created_at": "2018-02-28T05:53:45.466Z",
+    "updated_at": "2018-02-28T05:53:45.466Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 96,
+  "fields": {
+    "program": "B Secondary Education Social Studies",
+    "created_at": "2018-02-28T05:53:45.477Z",
+    "updated_at": "2018-02-28T05:53:45.477Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 97,
+  "fields": {
+    "program": "B Secondary Education Double Major: Major 1: Art Education; Major 2__",
+    "created_at": "2018-02-28T05:53:45.488Z",
+    "updated_at": "2018-02-28T05:53:45.488Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 98,
+  "fields": {
+    "program": "B Secondary Education Double Major: Major 1: Special Education; Major 2__",
+    "created_at": "2018-02-28T05:53:45.499Z",
+    "updated_at": "2018-02-28T05:53:45.499Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 99,
+  "fields": {
+    "program": "B Secondary Education Double Major: Biology and Chemistry",
+    "created_at": "2018-02-28T05:53:45.510Z",
+    "updated_at": "2018-02-28T05:53:45.510Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 100,
+  "fields": {
+    "program": "B Secondary Education Double Major: Major 1: Communication Arts- English; Major 2__",
+    "created_at": "2018-02-28T05:53:45.521Z",
+    "updated_at": "2018-02-28T05:53:45.521Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 101,
+  "fields": {
+    "program": "B Secondary Education Double Major: Major 1: Communication Arts- Filipino; Major 2__",
+    "created_at": "2018-02-28T05:53:45.532Z",
+    "updated_at": "2018-02-28T05:53:45.532Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 102,
+  "fields": {
+    "program": "B Music Band Conducting",
+    "created_at": "2018-02-28T05:53:45.543Z",
+    "updated_at": "2018-02-28T05:53:45.543Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 103,
+  "fields": {
+    "program": "B Music Choral Conducting",
+    "created_at": "2018-02-28T05:53:45.554Z",
+    "updated_at": "2018-02-28T05:53:45.554Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 104,
+  "fields": {
+    "program": "B Music Orchestral Conducting",
+    "created_at": "2018-02-28T05:53:45.565Z",
+    "updated_at": "2018-02-28T05:53:45.565Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 105,
+  "fields": {
+    "program": "B Music Composition",
+    "created_at": "2018-02-28T05:53:45.576Z",
+    "updated_at": "2018-02-28T05:53:45.576Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 106,
+  "fields": {
+    "program": "B Music Dance",
+    "created_at": "2018-02-28T05:53:45.587Z",
+    "updated_at": "2018-02-28T05:53:45.587Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 107,
+  "fields": {
+    "program": "B Music Instruments: Strings",
+    "created_at": "2018-02-28T05:53:45.598Z",
+    "updated_at": "2018-02-28T05:53:45.599Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 108,
+  "fields": {
+    "program": "B Music Instruments: Percussion",
+    "created_at": "2018-02-28T05:53:45.610Z",
+    "updated_at": "2018-02-28T05:53:45.610Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 109,
+  "fields": {
+    "program": "B Music Instruments: Winds",
+    "created_at": "2018-02-28T05:53:45.621Z",
+    "updated_at": "2018-02-28T05:53:45.621Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 110,
+  "fields": {
+    "program": "B Music Music Education",
+    "created_at": "2018-02-28T05:53:45.631Z",
+    "updated_at": "2018-02-28T05:53:45.631Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 111,
+  "fields": {
+    "program": "B Music Musicology",
+    "created_at": "2018-02-28T05:53:45.642Z",
+    "updated_at": "2018-02-28T05:53:45.643Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 112,
+  "fields": {
+    "program": "B Music Piano",
+    "created_at": "2018-02-28T05:53:45.653Z",
+    "updated_at": "2018-02-28T05:53:45.653Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 113,
+  "fields": {
+    "program": "B Music Voice",
+    "created_at": "2018-02-28T05:53:45.664Z",
+    "updated_at": "2018-02-28T05:53:45.665Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 114,
+  "fields": {
+    "program": "M Architecture",
+    "created_at": "2018-02-28T05:53:45.676Z",
+    "updated_at": "2018-02-28T05:53:45.676Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 115,
+  "fields": {
+    "program": "M Tropical Landscape Architecture",
+    "created_at": "2018-02-28T05:53:45.687Z",
+    "updated_at": "2018-02-28T05:53:45.687Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 116,
+  "fields": {
+    "program": "MA Art Studies: Art History",
+    "created_at": "2018-02-28T05:53:45.698Z",
+    "updated_at": "2018-02-28T05:53:45.698Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 117,
+  "fields": {
+    "program": "MA Art Studies: Art Theory and Criticism",
+    "created_at": "2018-02-28T05:53:45.709Z",
+    "updated_at": "2018-02-28T05:53:45.709Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 118,
+  "fields": {
+    "program": "MA Art Studies: Curatorial Studies",
+    "created_at": "2018-02-28T05:53:45.720Z",
+    "updated_at": "2018-02-28T05:53:45.720Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 119,
+  "fields": {
+    "program": "MA Comparative Literature",
+    "created_at": "2018-02-28T05:53:45.731Z",
+    "updated_at": "2018-02-28T05:53:45.731Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 120,
+  "fields": {
+    "program": "MA Creative Writing",
+    "created_at": "2018-02-28T05:53:45.742Z",
+    "updated_at": "2018-02-28T05:53:45.742Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 121,
+  "fields": {
+    "program": "MA English Studies: Anglo-American Literature",
+    "created_at": "2018-02-28T05:53:45.753Z",
+    "updated_at": "2018-02-28T05:53:45.754Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 122,
+  "fields": {
+    "program": "MA English Studies: Language",
+    "created_at": "2018-02-28T05:53:45.764Z",
+    "updated_at": "2018-02-28T05:53:45.764Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 123,
+  "fields": {
+    "program": "MA French Language: Language",
+    "created_at": "2018-02-28T05:53:45.775Z",
+    "updated_at": "2018-02-28T05:53:45.776Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 124,
+  "fields": {
+    "program": "MA French Language: Translation  ",
+    "created_at": "2018-02-28T05:53:45.787Z",
+    "updated_at": "2018-02-28T05:53:45.787Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 125,
+  "fields": {
+    "program": "MA German",
+    "created_at": "2018-02-28T05:53:45.798Z",
+    "updated_at": "2018-02-28T05:53:45.798Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 126,
+  "fields": {
+    "program": "MA Spanish: Language",
+    "created_at": "2018-02-28T05:53:45.809Z",
+    "updated_at": "2018-02-28T05:53:45.809Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 127,
+  "fields": {
+    "program": "MA Spanish: Literature",
+    "created_at": "2018-02-28T05:53:45.820Z",
+    "updated_at": "2018-02-28T05:53:45.820Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 128,
+  "fields": {
+    "program": "MA Spanish: Translation",
+    "created_at": "2018-02-28T05:53:45.831Z",
+    "updated_at": "2018-02-28T05:53:45.831Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 129,
+  "fields": {
+    "program": "MA Spanish: Rizal Studies",
+    "created_at": "2018-02-28T05:53:45.842Z",
+    "updated_at": "2018-02-28T05:53:45.842Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 130,
+  "fields": {
+    "program": "MA Araling Pilipino",
+    "created_at": "2018-02-28T05:53:45.853Z",
+    "updated_at": "2018-02-28T05:53:45.853Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 131,
+  "fields": {
+    "program": "MA Filipino: Malikhaing Pagsulat",
+    "created_at": "2018-02-28T05:53:45.864Z",
+    "updated_at": "2018-02-28T05:53:45.864Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 132,
+  "fields": {
+    "program": "MA Filipino: Pagsasalin",
+    "created_at": "2018-02-28T05:53:45.875Z",
+    "updated_at": "2018-02-28T05:53:45.875Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 133,
+  "fields": {
+    "program": "MA Filipino: Panitikan",
+    "created_at": "2018-02-28T05:53:45.886Z",
+    "updated_at": "2018-02-28T05:53:45.886Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 134,
+  "fields": {
+    "program": "MA Filipino: Wika",
+    "created_at": "2018-02-28T05:53:45.897Z",
+    "updated_at": "2018-02-28T05:53:45.897Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 135,
+  "fields": {
+    "program": "MA Speech Communication",
+    "created_at": "2018-02-28T05:53:45.908Z",
+    "updated_at": "2018-02-28T05:53:45.908Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 136,
+  "fields": {
+    "program": "MA Theatre Arts",
+    "created_at": "2018-02-28T05:53:45.919Z",
+    "updated_at": "2018-02-28T05:53:45.920Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 137,
+  "fields": {
+    "program": "M Philippine Studies",
+    "created_at": "2018-02-28T05:53:45.931Z",
+    "updated_at": "2018-02-28T05:53:45.931Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 138,
+  "fields": {
+    "program": "M Asian Studies",
+    "created_at": "2018-02-28T05:53:45.942Z",
+    "updated_at": "2018-02-28T05:53:45.942Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 139,
+  "fields": {
+    "program": "MA Asian Studies",
+    "created_at": "2018-02-28T05:53:45.953Z",
+    "updated_at": "2018-02-28T05:53:45.953Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 140,
+  "fields": {
+    "program": "MA Philippine Studies",
+    "created_at": "2018-02-28T05:53:45.964Z",
+    "updated_at": "2018-02-28T05:53:45.964Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 141,
+  "fields": {
+    "program": "M Business Administration",
+    "created_at": "2018-02-28T05:53:45.975Z",
+    "updated_at": "2018-02-28T05:53:45.975Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 142,
+  "fields": {
+    "program": "MS Finance",
+    "created_at": "2018-02-28T05:53:45.986Z",
+    "updated_at": "2018-02-28T05:53:45.986Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 143,
+  "fields": {
+    "program": "M Development Economics",
+    "created_at": "2018-02-28T05:53:45.997Z",
+    "updated_at": "2018-02-28T05:53:45.997Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 144,
+  "fields": {
+    "program": "MA Economics",
+    "created_at": "2018-02-28T05:53:46.008Z",
+    "updated_at": "2018-02-28T05:53:46.008Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 145,
+  "fields": {
+    "program": "MS Civil Engineering",
+    "created_at": "2018-02-28T05:53:46.019Z",
+    "updated_at": "2018-02-28T05:53:46.019Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 146,
+  "fields": {
+    "program": "MS Chemical Engineering",
+    "created_at": "2018-02-28T05:53:46.030Z",
+    "updated_at": "2018-02-28T05:53:46.030Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 147,
+  "fields": {
+    "program": "MS Computer Science",
+    "created_at": "2018-02-28T05:53:46.074Z",
+    "updated_at": "2018-02-28T05:53:46.074Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 148,
+  "fields": {
+    "program": "Master of Engineering in Electrical Engineering",
+    "created_at": "2018-02-28T05:53:46.085Z",
+    "updated_at": "2018-02-28T05:53:46.086Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 149,
+  "fields": {
+    "program": "MS Electrical Engineering",
+    "created_at": "2018-02-28T05:53:46.096Z",
+    "updated_at": "2018-02-28T05:53:46.096Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 150,
+  "fields": {
+    "program": "MS Geomatics Engineering",
+    "created_at": "2018-02-28T05:53:46.107Z",
+    "updated_at": "2018-02-28T05:53:46.108Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 151,
+  "fields": {
+    "program": "MS Industrial Engineering",
+    "created_at": "2018-02-28T05:53:46.118Z",
+    "updated_at": "2018-02-28T05:53:46.119Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 152,
+  "fields": {
+    "program": "M Engineering in Industrial Engineering        ",
+    "created_at": "2018-02-28T05:53:46.129Z",
+    "updated_at": "2018-02-28T05:53:46.130Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 153,
+  "fields": {
+    "program": "MS Mechanical Engineering",
+    "created_at": "2018-02-28T05:53:46.141Z",
+    "updated_at": "2018-02-28T05:53:46.141Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 154,
+  "fields": {
+    "program": "MS Materials Science and Engineering",
+    "created_at": "2018-02-28T05:53:46.152Z",
+    "updated_at": "2018-02-28T05:53:46.152Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 155,
+  "fields": {
+    "program": "MS Metallurgical Engineering",
+    "created_at": "2018-02-28T05:53:46.163Z",
+    "updated_at": "2018-02-28T05:53:46.163Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 156,
+  "fields": {
+    "program": "MS Energy Engineering",
+    "created_at": "2018-02-28T05:53:46.174Z",
+    "updated_at": "2018-02-28T05:53:46.174Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 157,
+  "fields": {
+    "program": "MS Environmental Engineering",
+    "created_at": "2018-02-28T05:53:46.185Z",
+    "updated_at": "2018-02-28T05:53:46.185Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 158,
+  "fields": {
+    "program": "M Fine Arts",
+    "created_at": "2018-02-28T05:53:46.196Z",
+    "updated_at": "2018-02-28T05:53:46.196Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 159,
+  "fields": {
+    "program": "M Interior Design",
+    "created_at": "2018-02-28T05:53:46.207Z",
+    "updated_at": "2018-02-28T05:53:46.207Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 160,
+  "fields": {
+    "program": "M Family Life and Child Development",
+    "created_at": "2018-02-28T05:53:46.218Z",
+    "updated_at": "2018-02-28T05:53:46.218Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 161,
+  "fields": {
+    "program": "MS Food Science",
+    "created_at": "2018-02-28T05:53:46.229Z",
+    "updated_at": "2018-02-28T05:53:46.229Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 162,
+  "fields": {
+    "program": "MS Nutrition        ",
+    "created_at": "2018-02-28T05:53:46.240Z",
+    "updated_at": "2018-02-28T05:53:46.240Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 163,
+  "fields": {
+    "program": "M Home Economics",
+    "created_at": "2018-02-28T05:53:46.251Z",
+    "updated_at": "2018-02-28T05:53:46.252Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 164,
+  "fields": {
+    "program": "M Hotel, Restaurant and Institution Management",
+    "created_at": "2018-02-28T05:53:46.295Z",
+    "updated_at": "2018-02-28T05:53:46.295Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 165,
+  "fields": {
+    "program": "MS Human Movement Science",
+    "created_at": "2018-02-28T05:53:46.306Z",
+    "updated_at": "2018-02-28T05:53:46.306Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 166,
+  "fields": {
+    "program": "MA Islamic Studies",
+    "created_at": "2018-02-28T05:53:46.317Z",
+    "updated_at": "2018-02-28T05:53:46.317Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 167,
+  "fields": {
+    "program": "M Industrial Relations",
+    "created_at": "2018-02-28T05:53:46.329Z",
+    "updated_at": "2018-02-28T05:53:46.329Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 168,
+  "fields": {
+    "program": "M Library and Information Science",
+    "created_at": "2018-02-28T05:53:46.340Z",
+    "updated_at": "2018-02-28T05:53:46.340Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 169,
+  "fields": {
+    "program": "MA Media Studies (Broadcast)",
+    "created_at": "2018-02-28T05:53:46.351Z",
+    "updated_at": "2018-02-28T05:53:46.351Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 170,
+  "fields": {
+    "program": "MA Communication",
+    "created_at": "2018-02-28T05:53:46.362Z",
+    "updated_at": "2018-02-28T05:53:46.362Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 171,
+  "fields": {
+    "program": "MA Media Studies (Film)",
+    "created_at": "2018-02-28T05:53:46.373Z",
+    "updated_at": "2018-02-28T05:53:46.373Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 172,
+  "fields": {
+    "program": "MA Journalism",
+    "created_at": "2018-02-28T05:53:46.384Z",
+    "updated_at": "2018-02-28T05:53:46.384Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 173,
+  "fields": {
+    "program": "M Public Administration",
+    "created_at": "2018-02-28T05:53:46.395Z",
+    "updated_at": "2018-02-28T05:53:46.396Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 174,
+  "fields": {
+    "program": "MS Biology",
+    "created_at": "2018-02-28T05:53:46.407Z",
+    "updated_at": "2018-02-28T05:53:46.407Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 175,
+  "fields": {
+    "program": "MS Microbiology",
+    "created_at": "2018-02-28T05:53:46.418Z",
+    "updated_at": "2018-02-28T05:53:46.418Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 176,
+  "fields": {
+    "program": "MS Chemical Education",
+    "created_at": "2018-02-28T05:53:46.429Z",
+    "updated_at": "2018-02-28T05:53:46.429Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 177,
+  "fields": {
+    "program": "MS Chemistry",
+    "created_at": "2018-02-28T05:53:46.440Z",
+    "updated_at": "2018-02-28T05:53:46.440Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 178,
+  "fields": {
+    "program": "MS Environmental Science",
+    "created_at": "2018-02-28T05:53:46.451Z",
+    "updated_at": "2018-02-28T05:53:46.451Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 179,
+  "fields": {
+    "program": "MS Meteorology",
+    "created_at": "2018-02-28T05:53:46.462Z",
+    "updated_at": "2018-02-28T05:53:46.462Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 180,
+  "fields": {
+    "program": "MA Mathematics",
+    "created_at": "2018-02-28T05:53:46.472Z",
+    "updated_at": "2018-02-28T05:53:46.472Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 181,
+  "fields": {
+    "program": "MS Applied Mathematics",
+    "created_at": "2018-02-28T05:53:46.483Z",
+    "updated_at": "2018-02-28T05:53:46.483Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 182,
+  "fields": {
+    "program": "MS Mathematics",
+    "created_at": "2018-02-28T05:53:46.494Z",
+    "updated_at": "2018-02-28T05:53:46.494Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 183,
+  "fields": {
+    "program": "Professional Masters in Applied Mathematics (Actuarial Science)",
+    "created_at": "2018-02-28T05:53:46.505Z",
+    "updated_at": "2018-02-28T05:53:46.505Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 184,
+  "fields": {
+    "program": "MS Molecular Biology and Biotechnology",
+    "created_at": "2018-02-28T05:53:46.516Z",
+    "updated_at": "2018-02-28T05:53:46.516Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 185,
+  "fields": {
+    "program": "Professional Masters in Tropical Marine Ecosystems Management",
+    "created_at": "2018-02-28T05:53:46.527Z",
+    "updated_at": "2018-02-28T05:53:46.527Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 186,
+  "fields": {
+    "program": "MS Marine Science",
+    "created_at": "2018-02-28T05:53:46.539Z",
+    "updated_at": "2018-02-28T05:53:46.539Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 187,
+  "fields": {
+    "program": "MS Geology",
+    "created_at": "2018-02-28T05:53:46.550Z",
+    "updated_at": "2018-02-28T05:53:46.551Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 188,
+  "fields": {
+    "program": "MA Physics",
+    "created_at": "2018-02-28T05:53:46.561Z",
+    "updated_at": "2018-02-28T05:53:46.561Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 189,
+  "fields": {
+    "program": "MS Physics        ",
+    "created_at": "2018-02-28T05:53:46.572Z",
+    "updated_at": "2018-02-28T05:53:46.572Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 190,
+  "fields": {
+    "program": "MS Materials Science and Engineering",
+    "created_at": "2018-02-28T05:53:46.584Z",
+    "updated_at": "2018-02-28T05:53:46.584Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 191,
+  "fields": {
+    "program": "MA Anthropology",
+    "created_at": "2018-02-28T05:53:46.595Z",
+    "updated_at": "2018-02-28T05:53:46.595Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 192,
+  "fields": {
+    "program": "MS Geography",
+    "created_at": "2018-02-28T05:53:46.606Z",
+    "updated_at": "2018-02-28T05:53:46.606Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 193,
+  "fields": {
+    "program": "MA History",
+    "created_at": "2018-02-28T05:53:46.617Z",
+    "updated_at": "2018-02-28T05:53:46.617Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 194,
+  "fields": {
+    "program": "MA Linguistics",
+    "created_at": "2018-02-28T05:53:46.628Z",
+    "updated_at": "2018-02-28T05:53:46.628Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 195,
+  "fields": {
+    "program": "MA Philosophy",
+    "created_at": "2018-02-28T05:53:46.639Z",
+    "updated_at": "2018-02-28T05:53:46.639Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 196,
+  "fields": {
+    "program": "M International Studies",
+    "created_at": "2018-02-28T05:53:46.650Z",
+    "updated_at": "2018-02-28T05:53:46.650Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 197,
+  "fields": {
+    "program": "MA Political Science",
+    "created_at": "2018-02-28T05:53:46.661Z",
+    "updated_at": "2018-02-28T05:53:46.661Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 198,
+  "fields": {
+    "program": "MA Psychology",
+    "created_at": "2018-02-28T05:53:46.672Z",
+    "updated_at": "2018-02-28T05:53:46.672Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 199,
+  "fields": {
+    "program": "MA Sociology",
+    "created_at": "2018-02-28T05:53:46.683Z",
+    "updated_at": "2018-02-28T05:53:46.683Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 200,
+  "fields": {
+    "program": "M Population Studies",
+    "created_at": "2018-02-28T05:53:46.694Z",
+    "updated_at": "2018-02-28T05:53:46.694Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 201,
+  "fields": {
+    "program": "MA Demography",
+    "created_at": "2018-02-28T05:53:46.705Z",
+    "updated_at": "2018-02-28T05:53:46.705Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 202,
+  "fields": {
+    "program": "M Community Development",
+    "created_at": "2018-02-28T05:53:46.716Z",
+    "updated_at": "2018-02-28T05:53:46.716Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 203,
+  "fields": {
+    "program": "M Social Work",
+    "created_at": "2018-02-28T05:53:46.727Z",
+    "updated_at": "2018-02-28T05:53:46.727Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 204,
+  "fields": {
+    "program": "MA Women and Development",
+    "created_at": "2018-02-28T05:53:46.738Z",
+    "updated_at": "2018-02-28T05:53:46.739Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 205,
+  "fields": {
+    "program": "M Statistics",
+    "created_at": "2018-02-28T05:53:46.750Z",
+    "updated_at": "2018-02-28T05:53:46.750Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 206,
+  "fields": {
+    "program": "MS Statistics",
+    "created_at": "2018-02-28T05:53:46.761Z",
+    "updated_at": "2018-02-28T05:53:46.761Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 207,
+  "fields": {
+    "program": "MA Urban and Regional Planning",
+    "created_at": "2018-02-28T05:53:46.772Z",
+    "updated_at": "2018-02-28T05:53:46.772Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 208,
+  "fields": {
+    "program": "MS in Regional Development Planning",
+    "created_at": "2018-02-28T05:53:46.782Z",
+    "updated_at": "2018-02-28T05:53:46.782Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 209,
+  "fields": {
+    "program": "M Management(UP Diliman Extension Program in Olongapo)",
+    "created_at": "2018-02-28T05:53:46.793Z",
+    "updated_at": "2018-02-28T05:53:46.793Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 210,
+  "fields": {
+    "program": "M Management(UP Diliman Extension Program in Pampanga)",
+    "created_at": "2018-02-28T05:53:46.804Z",
+    "updated_at": "2018-02-28T05:53:46.804Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 211,
+  "fields": {
+    "program": "MS in Archaeology",
+    "created_at": "2018-02-28T05:53:46.815Z",
+    "updated_at": "2018-02-28T05:53:46.815Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 212,
+  "fields": {
+    "program": "M Technology Management",
+    "created_at": "2018-02-28T05:53:46.826Z",
+    "updated_at": "2018-02-28T05:53:46.826Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 213,
+  "fields": {
+    "program": "M Music Choral/Instrumental Conducting",
+    "created_at": "2018-02-28T05:53:46.837Z",
+    "updated_at": "2018-02-28T05:53:46.837Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 214,
+  "fields": {
+    "program": "M Music Composition",
+    "created_at": "2018-02-28T05:53:46.849Z",
+    "updated_at": "2018-02-28T05:53:46.849Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 215,
+  "fields": {
+    "program": "M Music Instrumental Performance; Piano, Strings and Guitar, Winds and Percussion)",
+    "created_at": "2018-02-28T05:53:46.860Z",
+    "updated_at": "2018-02-28T05:53:46.860Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 216,
+  "fields": {
+    "program": "M Music Music Education",
+    "created_at": "2018-02-28T05:53:46.871Z",
+    "updated_at": "2018-02-28T05:53:46.871Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 217,
+  "fields": {
+    "program": "M Music Musicology",
+    "created_at": "2018-02-28T05:53:46.883Z",
+    "updated_at": "2018-02-28T05:53:46.883Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 218,
+  "fields": {
+    "program": "M Music Voice",
+    "created_at": "2018-02-28T05:53:46.894Z",
+    "updated_at": "2018-02-28T05:53:46.894Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 219,
+  "fields": {
+    "program": "MA Education Art Education",
+    "created_at": "2018-02-28T05:53:46.905Z",
+    "updated_at": "2018-02-28T05:53:46.905Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 220,
+  "fields": {
+    "program": "MA Education Biology Education",
+    "created_at": "2018-02-28T05:53:46.916Z",
+    "updated_at": "2018-02-28T05:53:46.916Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 221,
+  "fields": {
+    "program": "MA Education Chemistry Education",
+    "created_at": "2018-02-28T05:53:46.927Z",
+    "updated_at": "2018-02-28T05:53:46.927Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 222,
+  "fields": {
+    "program": "MA Education Curriculum Studies",
+    "created_at": "2018-02-28T05:53:46.938Z",
+    "updated_at": "2018-02-28T05:53:46.938Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 223,
+  "fields": {
+    "program": "MA Education Educational Administration",
+    "created_at": "2018-02-28T05:53:46.949Z",
+    "updated_at": "2018-02-28T05:53:46.949Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 224,
+  "fields": {
+    "program": "MA Education Educational Psychology",
+    "created_at": "2018-02-28T05:53:46.960Z",
+    "updated_at": "2018-02-28T05:53:46.960Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 225,
+  "fields": {
+    "program": "MA Education Educational Technology",
+    "created_at": "2018-02-28T05:53:46.971Z",
+    "updated_at": "2018-02-28T05:53:46.971Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 226,
+  "fields": {
+    "program": "MA Education Elementary Mathematics",
+    "created_at": "2018-02-28T05:53:46.982Z",
+    "updated_at": "2018-02-28T05:53:46.982Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 227,
+  "fields": {
+    "program": "MA Education Environmental Education",
+    "created_at": "2018-02-28T05:53:46.993Z",
+    "updated_at": "2018-02-28T05:53:46.993Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 228,
+  "fields": {
+    "program": "MA Education General Science",
+    "created_at": "2018-02-28T05:53:47.004Z",
+    "updated_at": "2018-02-28T05:53:47.005Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 229,
+  "fields": {
+    "program": "MA Education Guidance",
+    "created_at": "2018-02-28T05:53:47.015Z",
+    "updated_at": "2018-02-28T05:53:47.015Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 230,
+  "fields": {
+    "program": "MA Education Health Education",
+    "created_at": "2018-02-28T05:53:47.026Z",
+    "updated_at": "2018-02-28T05:53:47.026Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 231,
+  "fields": {
+    "program": "MA Education Language Education",
+    "created_at": "2018-02-28T05:53:47.037Z",
+    "updated_at": "2018-02-28T05:53:47.037Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 232,
+  "fields": {
+    "program": "MA Education Mathematics Education",
+    "created_at": "2018-02-28T05:53:47.048Z",
+    "updated_at": "2018-02-28T05:53:47.048Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 233,
+  "fields": {
+    "program": "MA Education Measurement and Evaluation",
+    "created_at": "2018-02-28T05:53:47.059Z",
+    "updated_at": "2018-02-28T05:53:47.059Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 234,
+  "fields": {
+    "program": "MA Education Non-Formal Education",
+    "created_at": "2018-02-28T05:53:47.070Z",
+    "updated_at": "2018-02-28T05:53:47.070Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 235,
+  "fields": {
+    "program": "MA Education Philosophy of Education",
+    "created_at": "2018-02-28T05:53:47.081Z",
+    "updated_at": "2018-02-28T05:53:47.081Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 236,
+  "fields": {
+    "program": "MA Education Physics Education",
+    "created_at": "2018-02-28T05:53:47.092Z",
+    "updated_at": "2018-02-28T05:53:47.092Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 237,
+  "fields": {
+    "program": "MA Education Population Education",
+    "created_at": "2018-02-28T05:53:47.103Z",
+    "updated_at": "2018-02-28T05:53:47.103Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 238,
+  "fields": {
+    "program": "MA Education Reading Education",
+    "created_at": "2018-02-28T05:53:47.115Z",
+    "updated_at": "2018-02-28T05:53:47.115Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 239,
+  "fields": {
+    "program": "MA Education Social Studies",
+    "created_at": "2018-02-28T05:53:47.126Z",
+    "updated_at": "2018-02-28T05:53:47.126Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 240,
+  "fields": {
+    "program": "MA Education Special Education",
+    "created_at": "2018-02-28T05:53:47.137Z",
+    "updated_at": "2018-02-28T05:53:47.137Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 241,
+  "fields": {
+    "program": "MA Education Teaching in the Early Grades, K-2",
+    "created_at": "2018-02-28T05:53:47.148Z",
+    "updated_at": "2018-02-28T05:53:47.148Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 242,
+  "fields": {
+    "program": "Doctor of Philosophy (Comparative Literature)",
+    "created_at": "2018-02-28T05:53:47.159Z",
+    "updated_at": "2018-02-28T05:53:47.159Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 243,
+  "fields": {
+    "program": "Doctor of Philosophy (Creative Writing)",
+    "created_at": "2018-02-28T05:53:47.170Z",
+    "updated_at": "2018-02-28T05:53:47.170Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 244,
+  "fields": {
+    "program": "Doctor of Philosophy (English Studies: Anglo-American Literature)",
+    "created_at": "2018-02-28T05:53:47.181Z",
+    "updated_at": "2018-02-28T05:53:47.181Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 245,
+  "fields": {
+    "program": "Doctor of Philosophy (English Studies: Language)",
+    "created_at": "2018-02-28T05:53:47.192Z",
+    "updated_at": "2018-02-28T05:53:47.193Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 246,
+  "fields": {
+    "program": "Doctor of Philosophy (Hispanic Literature: Spanish Filipino Literature)",
+    "created_at": "2018-02-28T05:53:47.204Z",
+    "updated_at": "2018-02-28T05:53:47.204Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 247,
+  "fields": {
+    "program": "Doctor of Philosophy (Hispanic Literature: Spanish Peninsular Literature)",
+    "created_at": "2018-02-28T05:53:47.215Z",
+    "updated_at": "2018-02-28T05:53:47.215Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 248,
+  "fields": {
+    "program": "Doctor of Philosophy (Hispanic Literature: Spanish American Literature)",
+    "created_at": "2018-02-28T05:53:47.226Z",
+    "updated_at": "2018-02-28T05:53:47.226Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 249,
+  "fields": {
+    "program": "Doctor of Philosophy (Filipino)",
+    "created_at": "2018-02-28T05:53:47.237Z",
+    "updated_at": "2018-02-28T05:53:47.237Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 250,
+  "fields": {
+    "program": "Doctor of Philosophy Malikhaing Pagsulat",
+    "created_at": "2018-02-28T05:53:47.248Z",
+    "updated_at": "2018-02-28T05:53:47.248Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 251,
+  "fields": {
+    "program": "Doctor of Philosophy (Philippine Studies)",
+    "created_at": "2018-02-28T05:53:47.259Z",
+    "updated_at": "2018-02-28T05:53:47.259Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 252,
+  "fields": {
+    "program": "Doctor of Philosophy (Civil Engineering)",
+    "created_at": "2018-02-28T05:53:47.270Z",
+    "updated_at": "2018-02-28T05:53:47.270Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 253,
+  "fields": {
+    "program": "Doctor of Philosophy (Chemical Engineering)",
+    "created_at": "2018-02-28T05:53:47.281Z",
+    "updated_at": "2018-02-28T05:53:47.281Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 254,
+  "fields": {
+    "program": "Doctor of Philosophy in Computer Science",
+    "created_at": "2018-02-28T05:53:47.292Z",
+    "updated_at": "2018-02-28T05:53:47.292Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 255,
+  "fields": {
+    "program": "Doctor of Engineering (Electrical and Electronics Engineering)",
+    "created_at": "2018-02-28T05:53:47.303Z",
+    "updated_at": "2018-02-28T05:53:47.303Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 256,
+  "fields": {
+    "program": "Doctor of Philosophy (Electrical and Electronics Engineering)",
+    "created_at": "2018-02-28T05:53:47.314Z",
+    "updated_at": "2018-02-28T05:53:47.314Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 257,
+  "fields": {
+    "program": "Doctor of Philosophy (Materials Science and Engineering)",
+    "created_at": "2018-02-28T05:53:47.325Z",
+    "updated_at": "2018-02-28T05:53:47.325Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 258,
+  "fields": {
+    "program": "Doctor of Philosophy (Energy Engineering)",
+    "created_at": "2018-02-28T05:53:47.336Z",
+    "updated_at": "2018-02-28T05:53:47.336Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 259,
+  "fields": {
+    "program": "Doctor of Philosophy (Environmental Engineering)",
+    "created_at": "2018-02-28T05:53:47.347Z",
+    "updated_at": "2018-02-28T05:53:47.348Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 260,
+  "fields": {
+    "program": "Doctor of Philosophy (Food Science)",
+    "created_at": "2018-02-28T05:53:47.359Z",
+    "updated_at": "2018-02-28T05:53:47.359Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 261,
+  "fields": {
+    "program": "Doctor of Philosophy (Nutrition)",
+    "created_at": "2018-02-28T05:53:47.370Z",
+    "updated_at": "2018-02-28T05:53:47.370Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 262,
+  "fields": {
+    "program": "Doctor of Philosophy (Home Economics)",
+    "created_at": "2018-02-28T05:53:47.381Z",
+    "updated_at": "2018-02-28T05:53:47.381Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 263,
+  "fields": {
+    "program": "Doctor of Philosophy in Communication",
+    "created_at": "2018-02-28T05:53:47.392Z",
+    "updated_at": "2018-02-28T05:53:47.392Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 264,
+  "fields": {
+    "program": "Doctor of Philosophy in Media Studies",
+    "created_at": "2018-02-28T05:53:47.403Z",
+    "updated_at": "2018-02-28T05:53:47.403Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 265,
+  "fields": {
+    "program": "Doctor of Philosophy in Music",
+    "created_at": "2018-02-28T05:53:47.414Z",
+    "updated_at": "2018-02-28T05:53:47.414Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 266,
+  "fields": {
+    "program": "Doctor of Public Administration",
+    "created_at": "2018-02-28T05:53:47.425Z",
+    "updated_at": "2018-02-28T05:53:47.425Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 267,
+  "fields": {
+    "program": "Doctor of Philosophy (Biology)</li>",
+    "created_at": "2018-02-28T05:53:47.436Z",
+    "updated_at": "2018-02-28T05:53:47.436Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 268,
+  "fields": {
+    "program": "Doctor of Philosophy in Biology (Option 3)",
+    "created_at": "2018-02-28T05:53:47.447Z",
+    "updated_at": "2018-02-28T05:53:47.447Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 269,
+  "fields": {
+    "program": "Doctor of Philosophy (Chemistry)",
+    "created_at": "2018-02-28T05:53:47.458Z",
+    "updated_at": "2018-02-28T05:53:47.458Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 270,
+  "fields": {
+    "program": "Doctor of Philosophy (Environmental Science)",
+    "created_at": "2018-02-28T05:53:47.469Z",
+    "updated_at": "2018-02-28T05:53:47.469Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 271,
+  "fields": {
+    "program": "Doctor of Philosophy (Meteorology)",
+    "created_at": "2018-02-28T05:53:47.480Z",
+    "updated_at": "2018-02-28T05:53:47.480Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 272,
+  "fields": {
+    "program": "Doctor of Philosophy (Mathematics)",
+    "created_at": "2018-02-28T05:53:47.491Z",
+    "updated_at": "2018-02-28T05:53:47.491Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 273,
+  "fields": {
+    "program": "Doctor of Philosophy (Molecular Biology and Biotechnology)",
+    "created_at": "2018-02-28T05:53:47.502Z",
+    "updated_at": "2018-02-28T05:53:47.502Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 274,
+  "fields": {
+    "program": "Doctor of Philosophy (Marine Science)",
+    "created_at": "2018-02-28T05:53:47.514Z",
+    "updated_at": "2018-02-28T05:53:47.514Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 275,
+  "fields": {
+    "program": "Doctor of Philosophy in Marine Science (Option 3)",
+    "created_at": "2018-02-28T05:53:47.524Z",
+    "updated_at": "2018-02-28T05:53:47.525Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 276,
+  "fields": {
+    "program": "Doctor of Philosophy (Geology)",
+    "created_at": "2018-02-28T05:53:47.536Z",
+    "updated_at": "2018-02-28T05:53:47.536Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 277,
+  "fields": {
+    "program": "Doctor of Philosophy (Physics)",
+    "created_at": "2018-02-28T05:53:47.547Z",
+    "updated_at": "2018-02-28T05:53:47.547Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 278,
+  "fields": {
+    "program": "Doctor of Philosophy (Materials Science and Engineering)",
+    "created_at": "2018-02-28T05:53:47.558Z",
+    "updated_at": "2018-02-28T05:53:47.558Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 279,
+  "fields": {
+    "program": "Doctor of Philosophy (Anthropology)",
+    "created_at": "2018-02-28T05:53:47.569Z",
+    "updated_at": "2018-02-28T05:53:47.569Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 280,
+  "fields": {
+    "program": "Doctor of Philosophy (History)",
+    "created_at": "2018-02-28T05:53:47.580Z",
+    "updated_at": "2018-02-28T05:53:47.580Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 281,
+  "fields": {
+    "program": "Doctor of Philosophy (Linguistics)",
+    "created_at": "2018-02-28T05:53:47.591Z",
+    "updated_at": "2018-02-28T05:53:47.591Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 282,
+  "fields": {
+    "program": "Doctor of Philosophy (Philosophy)",
+    "created_at": "2018-02-28T05:53:47.602Z",
+    "updated_at": "2018-02-28T05:53:47.602Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 283,
+  "fields": {
+    "program": "Doctor of Philosophy (Political Science)",
+    "created_at": "2018-02-28T05:53:47.613Z",
+    "updated_at": "2018-02-28T05:53:47.613Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 284,
+  "fields": {
+    "program": "Doctor of Philosophy (Psychology)",
+    "created_at": "2018-02-28T05:53:47.624Z",
+    "updated_at": "2018-02-28T05:53:47.625Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 285,
+  "fields": {
+    "program": "Doctor of Philosophy (Sociology)",
+    "created_at": "2018-02-28T05:53:47.635Z",
+    "updated_at": "2018-02-28T05:53:47.635Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 286,
+  "fields": {
+    "program": "Doctor of Social Development",
+    "created_at": "2018-02-28T05:53:47.646Z",
+    "updated_at": "2018-02-28T05:53:47.646Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 287,
+  "fields": {
+    "program": "Doctor of Philosophy (Statistics)",
+    "created_at": "2018-02-28T05:53:47.657Z",
+    "updated_at": "2018-02-28T05:53:47.658Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 288,
+  "fields": {
+    "program": "Doctor of Philosophy (Urban and Regional Planning)",
+    "created_at": "2018-02-28T05:53:47.668Z",
+    "updated_at": "2018-02-28T05:53:47.669Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 289,
+  "fields": {
+    "program": "Doctor of Philosophy in Archaeology",
+    "created_at": "2018-02-28T05:53:47.680Z",
+    "updated_at": "2018-02-28T05:53:47.680Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 290,
+  "fields": {
+    "program": "Juris Doctor",
+    "created_at": "2018-02-28T05:53:47.691Z",
+    "updated_at": "2018-02-28T05:53:47.691Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 291,
+  "fields": {
+    "program": "Doctor of Philosophy in Education (Anthropology/Sociology of Education)",
+    "created_at": "2018-02-28T05:53:47.702Z",
+    "updated_at": "2018-02-28T05:53:47.702Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 292,
+  "fields": {
+    "program": "Doctor of Philosophy in Education (Biology Education)",
+    "created_at": "2018-02-28T05:53:47.713Z",
+    "updated_at": "2018-02-28T05:53:47.713Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 293,
+  "fields": {
+    "program": "Doctor of Philosophy in Education (Chemistry Education)",
+    "created_at": "2018-02-28T05:53:47.724Z",
+    "updated_at": "2018-02-28T05:53:47.724Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 294,
+  "fields": {
+    "program": "Doctor of Philosophy in Education (Curriculum Studies)",
+    "created_at": "2018-02-28T05:53:47.735Z",
+    "updated_at": "2018-02-28T05:53:47.735Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 295,
+  "fields": {
+    "program": "Doctor of Philosophy in Education (Educational Administration)",
+    "created_at": "2018-02-28T05:53:47.746Z",
+    "updated_at": "2018-02-28T05:53:47.746Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 296,
+  "fields": {
+    "program": "Doctor of Philosophy in Education (Educational History and Philosophy)",
+    "created_at": "2018-02-28T05:53:47.757Z",
+    "updated_at": "2018-02-28T05:53:47.757Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 297,
+  "fields": {
+    "program": "Doctor of Philosophy in Education (Educational Psychology)",
+    "created_at": "2018-02-28T05:53:47.768Z",
+    "updated_at": "2018-02-28T05:53:47.768Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 298,
+  "fields": {
+    "program": "Doctor of Philosophy in Education (Guidance)",
+    "created_at": "2018-02-28T05:53:47.779Z",
+    "updated_at": "2018-02-28T05:53:47.779Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 299,
+  "fields": {
+    "program": "Doctor of Philosophy in Education (Language Education)",
+    "created_at": "2018-02-28T05:53:47.790Z",
+    "updated_at": "2018-02-28T05:53:47.790Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 300,
+  "fields": {
+    "program": "Doctor of Philosophy in Education (Mathematics Education)",
+    "created_at": "2018-02-28T05:53:47.801Z",
+    "updated_at": "2018-02-28T05:53:47.801Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 301,
+  "fields": {
+    "program": "Doctor of Philosophy in Education (Physics Education)",
+    "created_at": "2018-02-28T05:53:47.812Z",
+    "updated_at": "2018-02-28T05:53:47.812Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 302,
+  "fields": {
+    "program": "Doctor of Philosophy in Education (Reading Education)",
+    "created_at": "2018-02-28T05:53:47.823Z",
+    "updated_at": "2018-02-28T05:53:47.824Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 303,
+  "fields": {
+    "program": "Doctor of Philosophy in Education (Research and Evaluation)",
+    "created_at": "2018-02-28T05:53:47.834Z",
+    "updated_at": "2018-02-28T05:53:47.835Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 304,
+  "fields": {
+    "program": "Doctor of Philosophy in Education (Social Studies)",
+    "created_at": "2018-02-28T05:53:47.846Z",
+    "updated_at": "2018-02-28T05:53:47.846Z"
+  }
+},
+{
+  "model": "private_pages.courses",
+  "pk": 305,
+  "fields": {
+    "program": "Doctor of Philosophy in Education (Special Education)",
+    "created_at": "2018-02-28T05:53:47.857Z",
+    "updated_at": "2018-02-28T05:53:47.857Z"
+  }
+}
+]

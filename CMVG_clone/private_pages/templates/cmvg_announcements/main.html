@@ -1,0 +1,46 @@
+{% extends "base_private.html" %}
+
+{% load static from staticfiles%}
+
+{% block addedcss %}
+    <link rel="stylesheet" href="{% static "css/private/updates.css"%}">
+{% endblock %}
+
+{% block body %}
+    {% comment %} {% for datum in data %}
+    <p>{{ datum.title   }}</p>
+    <p>{{ datum.body    }}</p>
+    <p>{{ datum.notes   }}</p>
+    <p>{{ datum.image   }}</p>
+    <p>{{ datum.likes   }}</p>
+    <p>{{ datum.shares  }}</p>
+    <p>{{ datum.created_by }}</p>
+    <p>{{ datum.creator_full_name }}</p>
+    <p>{{ datum.creator_nickname  }}</p>
+    <p>{{ datum.updated_at }}</p>
+    <a href="/cmvg/announcements/{{datum.id}}/">Open</a>   
+    <hr>
+    {% endfor %} {% endcomment %}
+    <a href="/cmvg/announcements/create/ "class="new-announcements"><i class="fas fa-edit"></i> New Announcements</a>
+    <hr>
+    {% for datum in data %}
+        <div class="post">
+            <div class="post-right">
+                <img class="post-image" src="http://localhost:8000/media/{{ datum.image }}" alt="">
+            </div>
+            <div class="post-left">
+                <span class="title">{{ datum.title   }}</span>
+                <span class="time">{{ datum.created_by }} - {{ datum.updated_at }}</span>
+                <span class="body">{{ datum.body    }}</span>
+                <span class="notes-label">Notes to volunteers</span>
+                <span class="notes">{{ datum.notes   }}</span>
+                <hr class="custom-hr">
+                <div class="buttons">
+                    <a href="/cmvg/announcements/{{ datum.id }}"><i class="fas fa-book"></i>&nbsp Read More</a>
+                    <a href=""><i class="fas fa-share-alt"></i>&nbsp Share</a>
+                </div>
+            </div>
+        </div>
+        <hr>
+    {% endfor %}
+{% endblock %}

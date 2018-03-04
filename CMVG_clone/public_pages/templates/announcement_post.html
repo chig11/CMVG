@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% load static from staticfiles%}
+
+{% block addedcss %}
+    <link rel="stylesheet" href="{% static "css/update_post.css"%}">
+{% endblock %}
+
+{% block body %}
+        <div class="update-post">
+                <div class="update-post-right">
+                        <h1>{{ data.title }}</h1>
+                        <div class="time">
+                                {{ data.updated_at }} 
+                                <a href=""><i class="fas fa-share-alt"></i> Share</a>
+                        </div>
+                        <img class="post-image" src="http://localhost:8000/media/{{ data.image }}" alt="">
+                        <p class="body">{{ data.body }}</p>
+                </div>
+                <div class="update-post-left">
+                        <span class="title">Follow Us On</span>
+                        <div>
+                                <a href="#"><i class="fab fa-facebook-square"></i></a>
+                                <a href="#"><i class="fab fa-twitter-square"></i></a>
+                                <a href="#"><i class="fab fa-instagram"></i></a>
+                        </div>
+                </div>
+        </div>
+
+{% endblock %}

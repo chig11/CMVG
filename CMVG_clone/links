@@ -1,0 +1,34 @@
+root: campusministryherokuapp.com
+
+#public links/urls
+/
+/accounts/login/
+/login/
+/register/
+/about_us/
+/announcements/
+/announcemnets/{id}/
+/volunteers/
+/contact_us/
+
+#cmvg links/urls
+/cmvg/announcements/
+/cmvg/announcements/{id}/
+/cmvg/announcements/create/
+/cmvg/announcements/edit/{id}/
+
+/cmvg/calendar/
+
+/cmvg/cloud_storage/
+/cmvg/cloud_storage/{id}
+/cmvg/cloud_storage/create/
+/cmvg/cloud_storage/edit/{id}/
+
+/cmvg/gallery/
+/cmvg/gallery/{id}/
+/cmvg/gallery/create/
+/cmvg/gallery/edit/{id}/
+
+/cmvg/members_directory/
+
+/cmvg/profile/

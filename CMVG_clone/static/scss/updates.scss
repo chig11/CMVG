@@ -1,0 +1,111 @@
+h1 {
+    margin-bottom: 10px;
+    font-size: 3em;
+    font-weight: 300;
+}
+
+hr {
+    color : white;
+}
+
+.updates{
+    display: flex;
+
+    .right {
+        width: 75%;
+        border-style: solid;
+        border-width: 0 2px 0 0;
+        border-color: #bdbdbd;
+        padding-right: 1em;
+
+        .post{
+            display:flex;
+            margin-top: 3em;
+            margin-bottom: 3em;
+
+            .post-right{
+                display: flex;
+                width: 50%;
+                flex-grow: 1;
+
+                .post-image{
+                    width: 33vw;
+                    height: 33vw;
+                }
+            }
+
+            .post-left{
+                display: flex;
+                flex-direction: column;
+                width: 50%;
+                flex-grow: 1;
+                padding: 0 1.5em 0 1.5em;
+
+                .title{
+                    font-size: 1.75em;
+                    font-weight: 500;
+                }
+
+                .time{
+                    font-size : 1.1em;
+                    font-weight: 300;
+                }
+
+                .body{
+                    font-size: 1em;
+                    margin: 1em 0 1em 0;
+                    font-weight: 400;
+                }
+
+                .custom-hr {
+                    color: black;
+                    margin: 1em 0 1em 0;
+                }
+
+                .buttons {
+                    margin-top: 1em;
+                    a {
+                        text-decoration: None;
+                        color: black;
+                        font-size: 1.15em;
+                        padding: .5em 1em;
+                        border-style: solid;
+                        border-width: 1px;
+                        border-radius: 3px;
+                        border-color: #bdbdbd;
+                    }
+
+                    a:hover{
+                        background-color: #00c853;
+                    }
+                }
+            }
+
+            .body{
+                font-weight: 400;
+            }
+        }
+    }
+
+    .left {
+        display: flex;
+        flex-direction: column;
+        margin: 2em 0;
+        width: 25%;
+        align-items: center;
+
+        .title {
+            font-size: 2em;
+        }
+
+        .fab {
+            font-size: 3.5em;
+            color: black;
+            margin-right:10px;
+        }
+
+        .fab:hover{
+            color: #00c853;
+        }
+    }
+}

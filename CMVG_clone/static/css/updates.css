@@ -1,0 +1,77 @@
+h1 {
+  margin-bottom: 10px;
+  font-size: 3em;
+  font-weight: 300; }
+
+hr {
+  color: white; }
+
+.updates {
+  display: flex; }
+  .updates .right {
+    width: 75%;
+    border-style: solid;
+    border-width: 0 2px 0 0;
+    border-color: #bdbdbd;
+    padding-right: 1em; }
+    .updates .right .post {
+      display: flex;
+      margin-top: 3em;
+      margin-bottom: 3em; }
+      .updates .right .post .post-right {
+        display: flex;
+        width: 50%;
+        flex-grow: 1; }
+        .updates .right .post .post-right .post-image {
+          width: 33vw;
+          height: 33vw; }
+      .updates .right .post .post-left {
+        display: flex;
+        flex-direction: column;
+        width: 50%;
+        flex-grow: 1;
+        padding: 0 1.5em 0 1.5em; }
+        .updates .right .post .post-left .title {
+          font-size: 1.75em;
+          font-weight: 500; }
+        .updates .right .post .post-left .time {
+          font-size: 1.1em;
+          font-weight: 300; }
+        .updates .right .post .post-left .body {
+          font-size: 1em;
+          margin: 1em 0 1em 0;
+          font-weight: 400; }
+        .updates .right .post .post-left .custom-hr {
+          color: black;
+          margin: 1em 0 1em 0; }
+        .updates .right .post .post-left .buttons {
+          margin-top: 1em; }
+          .updates .right .post .post-left .buttons a {
+            text-decoration: None;
+            color: black;
+            font-size: 1.15em;
+            padding: .5em 1em;
+            border-style: solid;
+            border-width: 1px;
+            border-radius: 3px;
+            border-color: #bdbdbd; }
+          .updates .right .post .post-left .buttons a:hover {
+            background-color: #00c853; }
+      .updates .right .post .body {
+        font-weight: 400; }
+  .updates .left {
+    display: flex;
+    flex-direction: column;
+    margin: 2em 0;
+    width: 25%;
+    align-items: center; }
+    .updates .left .title {
+      font-size: 2em; }
+    .updates .left .fab {
+      font-size: 3.5em;
+      color: black;
+      margin-right: 10px; }
+    .updates .left .fab:hover {
+      color: #00c853; }
+
+/*# sourceMappingURL=updates.css.map */

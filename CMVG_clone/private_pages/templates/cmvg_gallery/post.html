@@ -1,0 +1,17 @@
+<style>
+    .dummyWidth {
+        width: 50%;
+    }
+</style>
+
+<h1>{{gallery.title}}</h1>
+<a href="/cmvg/gallery/edit/{{gallery.id}}">Edit</a>
+<a href="/cmvg/gallery/delete/{{gallery.id}}">Delete</a>
+<a href="/cmvg/gallery/">Back</a>
+<br>
+{% for item in gallery.gallery_access.all %}
+    <p>{{item.access}}</p>
+{% endfor %}
+{%for image in gallery.gallery_images.all %}
+    <img class="dummyWidth" src="/media/{{image.image}}" alt="">
+{% endfor %}
