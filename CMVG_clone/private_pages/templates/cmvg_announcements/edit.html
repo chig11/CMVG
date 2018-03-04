@@ -1,9 +1,0 @@
-{% extends "base_private.html" %}
-
-{% block body %}
-    <form method="post" action={% url 'private:cmvg_announcement_edit' post_id=post_id %} enctype="multipart/form-data">
-        {% csrf_token %}
-        {{ form.as_p }}
-        <input type="submit" value="save">
-    </form>
-{% endblock %}
